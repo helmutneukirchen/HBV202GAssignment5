@@ -48,7 +48,8 @@
       <scope>test</scope>
     </dependency>
     <!-- Added beyond quickstart archetype 1.5: junit-platform-suite includes junit-platform-suite-api/-engine
-    This is good to have should you later want to use the suite annotations -->
+    This is good to have should you later want to use the suite annotations
+    and the Gradescope autograder relies on it, so do not remove-->
     <dependency>
       <groupId>org.junit.platform</groupId>
       <artifactId>junit-platform-suite</artifactId>
