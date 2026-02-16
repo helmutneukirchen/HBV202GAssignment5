@@ -1,5 +1,5 @@
 # HBV202GAssignment5
-A very simple implementation of a stack for storing integer numbers to be tested using JUnit4.
+A very simple implementation of a stack for storing integer numbers to be tested using JUnit 5.
 
 This project is a Maven project, i.e. it uses the standard Maven project structure that your IDE should understand 
 when you `git clone` it. 
@@ -16,7 +16,7 @@ but in the usual separate Maven `src` directories:
   - `IntStackMain.java`: A class with a main method demonstrating some sample usage of the stack.
 
 - `src/test/java`:
-  - `IntStackTest.java`: A skeleton for a class containing JUnit4 test cases for the `IntStack` class, containing one sample test case.
+  - `IntStackTest.java`: A skeleton for a class containing JUnit 5 test cases for the `IntStack` class, containing one sample test case.
 
 Maven:
 
