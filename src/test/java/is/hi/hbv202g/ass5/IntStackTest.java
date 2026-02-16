@@ -1,9 +1,7 @@
 package is.hi.hbv202g.ass5;
 
-import static org.junit.Assert.*;
-
-import org.junit.Before;
-import org.junit.Test;
+import org.junit.jupiter.api.*;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class IntStackTest {
 
