@@ -15,8 +15,8 @@
     </license>
   </licenses>
 
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <!-- FIXME change to your student repository URL for this project -->
+  <url>https://github.com/helmutneukirchen/HBV202GAssignment5</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
