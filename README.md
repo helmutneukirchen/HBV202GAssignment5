@@ -1,7 +1,12 @@
 # HBV202GAssignment5
 A very simple implementation of a stack for storing integer numbers to be tested using JUnit4.
 
-This project is a Maven project, i.e. it uses the standard Maven project structure that your IDE hopefully understands when you `git clone` it. The provided Maven POM includes the JUnit4 dependency. The POM sets the Java version to 17: you may need to downgrade it if you use an older JDK.
+This project is a Maven project, i.e. it uses the standard Maven project structure that your IDE should understand 
+when you `git clone` it. 
+
+The provided Maven POM includes the JUnit 5 dependency. 
+
+The POM sets the Java version to 21 as this is the version that the autograder supports.
 
 Both the implementation and the tests are in Java package `is.hi.hbv202g.ass5`, 
 but in the usual separate Maven `src` directories:
